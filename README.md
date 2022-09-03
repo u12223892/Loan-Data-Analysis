@@ -1,0 +1,2 @@
+# Loan-Data-Analysis
+This dataset had 113 937 listed loans with 81 columns of variables ranging from Loan Original Amount, Occupation, Stated Monthly Income and Loan Term to name a few. Inorder to successfully conduct an Explanatory Data Analysis (EDA), the assessment and cleaning process is compressed into a concise chapter so that much more time is spend on the Exploratory and Explanatory Data Analysis of this project.
